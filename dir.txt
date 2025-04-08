@@ -1,0 +1,24 @@
+Folder PATH listing
+Volume serial number is 00730074 E641:4702
+C:.
+    adb.exe
+    AdbWinApi.dll
+    AdbWinUsbApi.dll
+    Amarok-v0.9.3.apk
+    cmd-here.exe
+    com.android1500.gpssetter_1210.apk
+    dir.txt
+    fastboot.exe
+    instal.bat
+    LSPosed-v1.9.2-7024-zygisk-release.zip
+    LSPosed-v1.9.3_mod-7244-zygisk-release.zip
+    Magisk-26.4.zip
+    Magisk-v26.1.zip
+    Magisk_patched_for_A21S.apk
+    README.md
+    TWRP-12.1_KAWA.tar
+    up_param.tar
+    ZArchiver_0.9.5.apk
+    
+No subfolders exist 
+
