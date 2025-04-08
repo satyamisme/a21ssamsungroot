@@ -28,7 +28,7 @@ Root your **Samsung Galaxy A21S** using ODIN, Magisk, and TWRP. Tested as of Apr
 8. **Open ODIN**: Launch ODIN.
 9. **Flash TWRP**: Load [TWRP 2 by AndyBGD](https://github.com/AndyBGD/android_device_samsung_a21s/releases) in `AP`, check only `F. Reset Time` in Options, click "Start."
 10. **Boot Recovery**: After "Success," hold Vol Up + Power to enter TWRP.
-11. **Run Multidisabler**: In TWRP, go `Advanced > Terminal`, type:  multidisabler execute
+11. **Run Multidisabler**: In TWRP, go `Advanced > Terminal`, type:  `multidisabler execute`
 12. **Reboot Recovery**: Select `Reboot > Recovery`.
 13. **Flash Magisk**: Choose `Install`, flash `Magisk-26.4.zip`.
 14. **Reboot to Download Mode**: Power off, re-enter Download Mode.
